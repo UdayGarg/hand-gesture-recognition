@@ -51,7 +51,7 @@ Clone the repository and run the `main.py` script to start the gesture recogniti
 ```bash
 git clone https://github.com/yourusername/hand-gesture-recognition.git
 cd hand-gesture-recognition
-python main.py
+python code/main.py
 ```
 
 Press `q` to exit the program.
