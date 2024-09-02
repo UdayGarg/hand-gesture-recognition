@@ -57,6 +57,14 @@ python main.py
 Press `q` to exit the program.
 
 ## Results
+
+Here are some screenshots showcasing the system in action:
+
+### Example 1: Recognizing an Open Hand Gesture
+![Open Hand Gesture](Results/open-hand.png)
+
+### Example 2: Recognizing a Peace Sign Gesture
+![Peace Sign Gesture](results/peace.png)
 - **Accuracy:** 74%
 - **F1 Score:** 0.741
 - **Precision:** 0.803
