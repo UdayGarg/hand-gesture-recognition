@@ -64,7 +64,8 @@ Here are some screenshots showcasing the system in action:
 ![Open Hand Gesture](Results/open-hand.png)
 
 ### Example 2: Recognizing a Peace Sign Gesture
-![Peace Sign Gesture](results/peace.png)
+![Peace Sign Gesture](Results/peace.png)
+
 - **Accuracy:** 74%
 - **F1 Score:** 0.741
 - **Precision:** 0.803
